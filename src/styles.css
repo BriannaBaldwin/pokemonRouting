@@ -49,64 +49,64 @@ body {
   transform: translateX(-50%);
 }
 
-.pokemon .card--charizard {
+.pokemon .card--fire {
   border-color: #ffdd56;
 }
 
-.pokemon .card--blastoise {
+.pokemon .card--water {
   border-color: #72d0fb;
 }
 
-.pokemon .card--venusaur {
+.pokemon .card--grass {
   border-color: #ff3860;
 }
 
-.pokemon .card--pikachu {
+.pokemon .card--electric {
   border-color: yellow;
 }
 
 
-.pokemon .card--charizard .card-image-container {
+.pokemon .card--fire .card-image-container {
   position: absolute;
   width: 500px;
   top: -100px;
   left: -39px;
 }
 
-.pokemon .card--charizard .hp::before {
+.pokemon .card--fire .hp::before {
   background: linear-gradient(to right, #a86e3c, #f5ae67);
 }
 
-.pokemon .card--blastoise .card-image-container {
+.pokemon .card--water .card-image-container {
   position: absolute;
   width: 375px;
   top: 0px;
   left: 25px;
 }
 
-.pokemon .card--blastoise .hp::before {
+.pokemon .card--water .hp::before {
   background: linear-gradient(to right, #c3fcff, #00a5f8);
 }
 
-.pokemon .card--venusaur .card-image-container {
+.pokemon .card--grass .card-image-container {
   position: absolute;
   width: 515px;
   top: 20px;
   left: -55px;
 }
 
-.pokemon .card--venusaur .hp::before {
+.pokemon .card--grass .hp::before {
   background: linear-gradient(to right, #92df00, #4ea13f);
 }
 
-.pokemon .card--pikachu .card-image-container {
+.pokemon .card--electric .card-image-container {
   position: absolute;
   width: 375px;
   top: 0px;
   left: 25px;
 }
 
-.pokemon .card--pikachu .hp::before {
+.pokemon .card--electric .hp::before {
   background: linear-gradient(to right, #FFFDB3, #FFFF00);
 }
 

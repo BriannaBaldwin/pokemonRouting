@@ -1,5 +1,5 @@
 <template>
-  <div class="card card--charizard 
+  <div class="card card--fire 
     has-text-weight-bold 
     has-text-white">
     <div class="card-image">

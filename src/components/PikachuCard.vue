@@ -1,5 +1,5 @@
 <template>
-    <div class="card card--pikachu
+    <div class="card card--electric
     has-text-weight-bold
     has-text-white">
         <div class="card-image">
