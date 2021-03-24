@@ -5,11 +5,13 @@ import FireType from "./components/Fire";
 import WaterType from "./components/Water";
 import GrassType from "./components/Grass";
 import ElectricType from "./components/Electric";
+import PsychicType from "./components/Psychic";
 
-import BlastoiseCard from "./components/BlastoiseCard";
-import CharizardCard from "./components/CharizardCard";
-import VenusaurCard from "./components/VenusaurCard";
-import PikachuCard from "./components/PikachuCard";
+import BlastoiseCard from "./components/water/BlastoiseCard";
+import CharizardCard from "./components/fire/CharizardCard";
+import VenusaurCard from "./components/grass/VenusaurCard";
+import PikachuCard from "./components/electric/PikachuCard";
+import MewCard from "./components/psychic/MewCard";
 import NotFound from "./components/NotFound";
 
 Vue.use(VueRouter);
@@ -24,6 +26,8 @@ const routes = [
   { path: "/water", component: WaterType },
   { path: "/grass", component: GrassType },
   { path: "/electric", component: ElectricType },
+  { path: "/psychic", component: PsychicType },
+  { path: "/mew", component: MewCard },
   { path: "*", component: NotFound }
 ];
 

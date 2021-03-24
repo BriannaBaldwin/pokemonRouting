@@ -4,7 +4,7 @@
     has-text-white">
         <div class="card-image">
             <div class="card-image-container">
-                <img src="../../static/pikachu.png"/>
+                <img src="../../../static/pikachu.png"/>
             </div>
         </div>
         <div class="card-content has-text-centered">

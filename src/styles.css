@@ -65,6 +65,10 @@ body {
   border-color: yellow;
 }
 
+.pokemon .card--psychic {
+  border-color: #F654A8;
+}
+
 
 .pokemon .card--fire .card-image-container {
   position: absolute;
@@ -108,6 +112,17 @@ body {
 
 .pokemon .card--electric .hp::before {
   background: linear-gradient(to right, #FFFDB3, #FFFF00);
+}
+
+.pokemon .card--psychic .card-image-container {
+  position: absolute;
+  width: 375px;
+  top: 0px;
+  left: 25px;
+}
+
+.pokemon .card--psychic .hp::before {
+  background: linear-gradient(to right, #F4A6CE, #F3258F);
 }
 
 .pokemon .card-content .main {

@@ -5,7 +5,7 @@
 
       <div class="pokemon-links has-text-centered">
         <!-- 15 elemental types of pokemon...choose 5
-        water, fire, grass, psychic, electric, flying-->
+        psychic -->
         <router-link to="/fire">
           Fire
         </router-link>
@@ -17,6 +17,9 @@
         </router-link>
         <router-link to="/electric">
           Electric
+        </router-link>
+        <router-link to="/psychic">
+          Psychic
         </router-link>
       </div>
     </div>

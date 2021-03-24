@@ -1,27 +1,27 @@
 <template>
-  <div class="card card--grass has-text-weight-bold has-text-white">
+  <div class="card card--water has-text-weight-bold has-text-white">
     <div class="card-image">
       <div class="card-image-container">
-        <img src="../../static/venusaur.png" />
+        <img src="../../../static/blastoise.png" />
       </div>
     </div>
     <div class="card-content has-text-centered">
       <div class="main">
-        <div class="title has-text-white">Venusaur</div>
-        <div class="hp hp-venusaur">hp 80</div>
+        <div class="title has-text-white">Blastoise</div>
+        <div class="hp">hp 79</div>
       </div>
       <div class="stats columns is-mobile">
         <div class="column">
-          🍃<br />
-          <span class="tag is-danger">Type</span>
+          💧<br />
+          <span class="tag is-light">Type</span>
         </div>
         <div class="column center-column">
-          220 lbs<br />
-          <span class="tag is-danger">Weight</span>
+          223 lbs<br />
+          <span class="tag is-light">Weight</span>
         </div>
         <div class="column">
-          2.0 m<br />
-          <span class="tag is-danger">Height</span>
+          1.6 m<br />
+          <span class="tag is-light">Height</span>
         </div>
       </div>
     </div>
@@ -30,6 +30,6 @@
 
 <script>
 export default {
-  name: "VenusaurCard"
+  name: "BlastoiseCard"
 };
 </script>
