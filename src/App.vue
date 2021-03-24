@@ -6,17 +6,17 @@
       <div class="pokemon-links has-text-centered">
         <!-- 15 elemental types of pokemon...choose 5
         water, fire, grass, psychic, electric, flying-->
-        <router-link to="/venusaur">
-          /venusaur
-        </router-link>
-        <router-link to="/pikachu">
-          /pikachu
-        </router-link>
         <router-link to="/fire">
           Fire
         </router-link>
+        <router-link to="/grass">
+          Grass
+        </router-link>
         <router-link to="/water">
           Water
+        </router-link>
+        <router-link to="/electric">
+          Electric
         </router-link>
       </div>
     </div>

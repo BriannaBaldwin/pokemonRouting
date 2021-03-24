@@ -3,6 +3,8 @@ import VueRouter from "vue-router";
 
 import FireType from "./components/Fire";
 import WaterType from "./components/Water";
+import GrassType from "./components/Grass";
+import ElectricType from "./components/Electric";
 
 import BlastoiseCard from "./components/BlastoiseCard";
 import CharizardCard from "./components/CharizardCard";
@@ -20,6 +22,8 @@ const routes = [
   { path: "/pikachu", component: PikachuCard },
   { path: "/fire", component: FireType },
   { path: "/water", component: WaterType },
+  { path: "/grass", component: GrassType },
+  { path: "/electric", component: ElectricType },
   { path: "*", component: NotFound }
 ];
 
