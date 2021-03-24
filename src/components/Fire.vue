@@ -8,6 +8,9 @@
         <router-link to="/charizard">
           Charizard
         </router-link><br>
+        <router-link to="/ninetails">
+          Ninetails
+        </router-link><br>
       </div>
     </div>
   </div>
