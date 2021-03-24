@@ -7,6 +7,9 @@
         <div class="title has-text-white">💧 Water 💧</div>
         <router-link to="/blastoise">
           Blastoise
+        </router-link><br>
+        <router-link to="/psyduck">
+          Psyduck
         </router-link>
       </div>
     </div>

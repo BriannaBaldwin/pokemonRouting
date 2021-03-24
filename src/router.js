@@ -8,6 +8,7 @@ import ElectricType from "./components/Electric";
 import PsychicType from "./components/Psychic";
 
 import BlastoiseCard from "./components/water/BlastoiseCard";
+import PsyduckCard from "./components/water/PsyduckCard";
 
 import CharizardCard from "./components/fire/CharizardCard";
 import NinetailsCard from "./components/fire/NinetailsCard";
@@ -34,6 +35,7 @@ const routes = [
   { path: "/ninetails", component: NinetailsCard },
 
   { path: "/blastoise", component: BlastoiseCard },
+  { path: "/psyduck", component: PsyduckCard },
 
   { path: "/venusaur", component: VenusaurCard },
 

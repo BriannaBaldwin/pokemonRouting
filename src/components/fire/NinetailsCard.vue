@@ -1,10 +1,10 @@
 <template>
-  <div class="card card--fire 
+  <div class="card card--fire2 
     has-text-weight-bold 
     has-text-white">
     <div class="card-image">
       <div class="card-image-container">
-        <img src="../../../static/charizard.png"/>
+        <img src="../../../static/ninetails.png" width="450"/>
       </div>
     </div>
     <div class="card-content has-text-centered">

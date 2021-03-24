@@ -8,6 +8,9 @@
         <router-link to="/mew">
           Mew
         </router-link><br>
+        <router-link to="/psyduck">
+          Psyduck
+        </router-link><br>
       </div>
     </div>
   </div>

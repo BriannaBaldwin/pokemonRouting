@@ -81,6 +81,17 @@ body {
   background: linear-gradient(to right, #a86e3c, #f5ae67);
 }
 
+.pokemon .card--fire2 .card-image-container {
+  position: absolute;
+  width: 500px;
+  top: -50px;
+  left: -39px;
+}
+
+.pokemon .card--fire2 .hp::before {
+  background: linear-gradient(to right, #a86e3c, #f5ae67);
+}
+
 .pokemon .card--water .card-image-container {
   position: absolute;
   width: 375px;
