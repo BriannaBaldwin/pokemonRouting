@@ -4,9 +4,8 @@
       <router-view></router-view>
 
       <div class="pokemon-links has-text-centered">
-        <router-link to="/charizard">
-          /charizard
-        </router-link>
+        <!-- 15 elemental types of pokemon...choose 5
+        water, fire, grass, psychic, electric, flying-->
         <router-link to="/blastoise">
           /blastoise
         </router-link>
@@ -15,6 +14,9 @@
         </router-link>
         <router-link to="/pikachu">
           /pikachu
+        </router-link>
+        <router-link to="/fire">
+          Fire
         </router-link>
       </div>
     </div>

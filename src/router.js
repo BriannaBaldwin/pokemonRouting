@@ -1,5 +1,8 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
+
+import FireType from "./components/Fire";
+
 import BlastoiseCard from "./components/BlastoiseCard";
 import CharizardCard from "./components/CharizardCard";
 import VenusaurCard from "./components/VenusaurCard";
@@ -14,6 +17,7 @@ const routes = [
   { path: "/blastoise", component: BlastoiseCard },
   { path: "/venusaur", component: VenusaurCard },
   { path: "/pikachu", component: PikachuCard },
+  { path: "/fire", component: FireType },
   { path: "*", component: NotFound }
 ];
 
