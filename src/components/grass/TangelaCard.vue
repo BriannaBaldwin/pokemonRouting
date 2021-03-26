@@ -2,13 +2,13 @@
   <div class="card card--grass has-text-weight-bold has-text-white">
     <div class="card-image">
       <div class="card-image-container">
-        <img src="../../../static/venusaur.png" />
+        <img src="../../../static/tangela.png" width="435" style="margin:0px 45px" />
       </div>
     </div>
     <div class="card-content has-text-centered">
       <div class="main">
-        <div class="title has-text-white">Venusaur</div>
-        <div class="hp hp-grass">hp 80</div>
+        <div class="title has-text-white">Tangela</div>
+        <div class="hp hp-grass">hp 65</div>
       </div>
       <div class="stats columns is-mobile">
         <div class="column">
@@ -16,11 +16,11 @@
           <span class="tag is-success">Type</span>
         </div>
         <div class="column center-column">
-          220 lbs<br />
+          77.2 lbs<br />
           <span class="tag is-success">Weight</span>
         </div>
         <div class="column">
-          2.0 m<br />
+          1.0 m<br />
           <span class="tag is-success">Height</span>
         </div>
       </div>
@@ -30,6 +30,6 @@
 
 <script>
 export default {
-  name: "VenusaurCard"
+  name: "TangelaCard"
 };
 </script>

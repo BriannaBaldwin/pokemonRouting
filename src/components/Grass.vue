@@ -8,6 +8,9 @@
         <router-link to="/venusaur">
           Venusaur
         </router-link><br>
+        <router-link to="/tangela">
+          Tangela
+        </router-link><br>
       </div>
     </div>
   </div>

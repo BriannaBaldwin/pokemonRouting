@@ -14,10 +14,12 @@ import CharizardCard from "./components/fire/CharizardCard";
 import NinetailsCard from "./components/fire/NinetailsCard";
 
 import VenusaurCard from "./components/grass/VenusaurCard";
+import TangelaCard from "./components/grass/TangelaCard";
 
 import PikachuCard from "./components/electric/PikachuCard";
 
 import MewCard from "./components/psychic/MewCard";
+import AlakazamCard from "./components/psychic/AlakazamCard";
 
 import NotFound from "./components/NotFound";
 
@@ -38,10 +40,12 @@ const routes = [
   { path: "/psyduck", component: PsyduckCard },
 
   { path: "/venusaur", component: VenusaurCard },
+  { path: "/tangela", component: TangelaCard },
 
   { path: "/pikachu", component: PikachuCard },
 
   { path: "/mew", component: MewCard },
+  { path: "/alakazam", component: AlakazamCard },
   
   { path: "*", component: NotFound }
 ];
