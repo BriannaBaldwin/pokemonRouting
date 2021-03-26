@@ -8,11 +8,14 @@
         <router-link to="/mew">
           Mew
         </router-link><br>
-        <router-link to="/psyduck">
-          Psyduck
-        </router-link><br>
         <router-link to="/alakazam">
           Alakazam
+        </router-link><br>
+        <router-link to="/mrmime">
+          Mr. Mime
+        </router-link><br>
+        <router-link to="/jynx">
+          Jynx
         </router-link><br>
       </div>
     </div>

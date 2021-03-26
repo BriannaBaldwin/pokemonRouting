@@ -30,6 +30,8 @@ import ElectabuzzCard from "./components/electric/ElectabuzzCard";
 
 import MewCard from "./components/psychic/MewCard";
 import AlakazamCard from "./components/psychic/AlakazamCard";
+import MrMimeCard from "./components/psychic/MrMimeCard";
+import JynxCard from "./components/psychic/JynxCard";
 
 import NotFound from "./components/NotFound";
 
@@ -66,6 +68,8 @@ const routes = [
 
   { path: "/mew", component: MewCard },
   { path: "/alakazam", component: AlakazamCard },
+  { path: "/mrmime", component: MrMimeCard },
+  { path: "/jynx", component: JynxCard },
   
   { path: "*", component: NotFound }
 ];
