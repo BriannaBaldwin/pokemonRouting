@@ -11,6 +11,12 @@
         <router-link to="/ninetails">
           Ninetails
         </router-link><br>
+        <router-link to="/flareon">
+          Flareon
+        </router-link><br>
+        <router-link to="/moltres">
+          Moltres
+        </router-link><br>
       </div>
     </div>
   </div>

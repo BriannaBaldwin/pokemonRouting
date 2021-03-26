@@ -10,7 +10,10 @@
         </router-link><br>
         <router-link to="/psyduck">
           Psyduck
-        </router-link>
+        </router-link><br>
+        <router-link to="/vaporeon">
+          Vaporeon
+        </router-link><br>
       </div>
     </div>
   </div>
