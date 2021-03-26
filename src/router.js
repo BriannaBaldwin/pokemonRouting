@@ -10,6 +10,7 @@ import PsychicType from "./components/Psychic";
 import BlastoiseCard from "./components/water/BlastoiseCard";
 import PsyduckCard from "./components/water/PsyduckCard";
 import VaporeonCard from "./components/water/VaporeonCard";
+import LaprasCard from "./components/water/LaprasCard";
 
 import CharizardCard from "./components/fire/CharizardCard";
 import NinetailsCard from "./components/fire/NinetailsCard";
@@ -50,6 +51,7 @@ const routes = [
   { path: "/blastoise", component: BlastoiseCard },
   { path: "/psyduck", component: PsyduckCard },
   { path: "/vaporeon", component: VaporeonCard },
+  { path: "/lapras", component: LaprasCard },
 
   { path: "/venusaur", component: VenusaurCard },
   { path: "/tangela", component: TangelaCard },

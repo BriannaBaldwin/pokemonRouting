@@ -14,6 +14,9 @@
         <router-link to="/vaporeon">
           Vaporeon
         </router-link><br>
+        <router-link to="/lapras">
+          Lapras
+        </router-link><br>
       </div>
     </div>
   </div>
