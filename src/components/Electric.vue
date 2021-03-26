@@ -11,6 +11,9 @@
         <router-link to="/zapdos">
           Zapdos
         </router-link><br>
+        <router-link to="/jolteon">
+          Jolteon
+        </router-link><br>
       </div>
     </div>
   </div>

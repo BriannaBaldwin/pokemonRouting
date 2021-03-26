@@ -18,6 +18,7 @@ import TangelaCard from "./components/grass/TangelaCard";
 
 import PikachuCard from "./components/electric/PikachuCard";
 import ZapdosCard from "./components/electric/ZapdosCard";
+import JolteonCard from "./components/electric/JolteonCard";
 
 import MewCard from "./components/psychic/MewCard";
 import AlakazamCard from "./components/psychic/AlakazamCard";
@@ -45,6 +46,7 @@ const routes = [
 
   { path: "/pikachu", component: PikachuCard },
   { path: "/zapdos", component: ZapdosCard },
+  { path: "/jolteon", component: JolteonCard },
 
   { path: "/mew", component: MewCard },
   { path: "/alakazam", component: AlakazamCard },
