@@ -125,6 +125,17 @@ body {
   background: linear-gradient(to right, #FFFDB3, #FFFF00);
 }
 
+.pokemon .card--electric2 .card-image-container {
+  position: absolute;
+  width: 500px;
+  top: 10px;
+  left: -35px;
+}
+
+.pokemon .card--electric2 .hp::before {
+  background: linear-gradient(to right, #FFFDB3, #FFFF00);
+}
+
 .pokemon .card--psychic .card-image-container {
   position: absolute;
   width: 375px;
