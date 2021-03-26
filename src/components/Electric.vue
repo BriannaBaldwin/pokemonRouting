@@ -14,6 +14,9 @@
         <router-link to="/jolteon">
           Jolteon
         </router-link><br>
+        <router-link to="/electabuzz">
+          Electabuzz
+        </router-link><br>
       </div>
     </div>
   </div>
