@@ -18,6 +18,7 @@ import MoltresCard from "./components/fire/MoltresCard";
 
 import VenusaurCard from "./components/grass/VenusaurCard";
 import TangelaCard from "./components/grass/TangelaCard";
+import ExeggutorCard from "./components/grass/ExeggutorCard";
 
 import PikachuCard from "./components/electric/PikachuCard";
 import ZapdosCard from "./components/electric/ZapdosCard";
@@ -49,6 +50,7 @@ const routes = [
 
   { path: "/venusaur", component: VenusaurCard },
   { path: "/tangela", component: TangelaCard },
+  { path: "/exeggutor", component: ExeggutorCard },
 
   { path: "/pikachu", component: PikachuCard },
   { path: "/zapdos", component: ZapdosCard },

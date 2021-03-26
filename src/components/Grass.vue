@@ -11,6 +11,9 @@
         <router-link to="/tangela">
           Tangela
         </router-link><br>
+        <router-link to="/exeggutor">
+          Exeggutor
+        </router-link><br>
       </div>
     </div>
   </div>
