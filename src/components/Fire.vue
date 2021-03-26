@@ -17,6 +17,9 @@
         <router-link to="/moltres">
           Moltres
         </router-link><br>
+        <router-link to="/arcanine">
+          Arcanine
+        </router-link><br>
       </div>
     </div>
   </div>

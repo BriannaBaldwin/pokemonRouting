@@ -15,6 +15,7 @@ import CharizardCard from "./components/fire/CharizardCard";
 import NinetailsCard from "./components/fire/NinetailsCard";
 import FlareonCard from "./components/fire/FlareonCard";
 import MoltresCard from "./components/fire/MoltresCard";
+import ArcanineCard from "./components/fire/ArcanineCard";
 
 import VenusaurCard from "./components/grass/VenusaurCard";
 import TangelaCard from "./components/grass/TangelaCard";
@@ -43,6 +44,7 @@ const routes = [
   { path: "/ninetails", component: NinetailsCard },
   { path: "/flareon", component: FlareonCard },
   { path: "/moltres", component: MoltresCard },
+  { path: "/arcanine", component: ArcanineCard },
 
   { path: "/blastoise", component: BlastoiseCard },
   { path: "/psyduck", component: PsyduckCard },
