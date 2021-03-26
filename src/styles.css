@@ -51,22 +51,27 @@ body {
 
 .pokemon .card--fire {
   border-color: #ffdd56;
+  width: 400px;
 }
 
 .pokemon .card--water {
   border-color: #72d0fb;
+  width: 400px;
 }
 
 .pokemon .card--grass {
   border-color: #ff3860;
+  width: 400px;
 }
 
 .pokemon .card--electric {
   border-color: yellow;
+  width: 400px;
 }
 
 .pokemon .card--psychic {
   border-color: #F654A8;
+  width: 400px;
 }
 
 
