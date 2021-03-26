@@ -14,6 +14,9 @@
         <router-link to="/exeggutor">
           Exeggutor
         </router-link><br>
+        <router-link to="/vileplume">
+          Vileplume
+        </router-link><br>
       </div>
     </div>
   </div>
